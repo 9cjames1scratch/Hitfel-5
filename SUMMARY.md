@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Introduction to the Hitfel 5](README.md)
+* [System Requirements](system-requirements.md)
+* [Booting](booting/README.md)
+  * [Booting Shortcuts](booting/booting-shortcuts.md)
+* [Installation](installation.md)
+* [Home Menu](home-menu/README.md)
+  * [Battery Module](home-menu/battery-module.md)
+  * [ProID Exchange (Hitfel 5)](home-menu/proid-exchange-hitfel-5.md)
+  * [Aurora](home-menu/aurora.md)
+  * [+app](home-menu/+app.md)
+  * [OnTags](home-menu/ontags.md)
+* [Wi-Fi Module](wi-fi-module.md)
+* [Failsafe](failsafe.md)
+* [Quick Menu](quick-menu.md)
+* [Modifying the system](modifying-the-system.md)

@@ -1,10 +1,17 @@
-# Hitfel-5
-Ultra HD graphics, sleek and clean design, introducing the Hitfel 5, successor to the Hitfel 3.
-
-
-Features
 ---
-The Hitfel 5 is best for your needs in video gaming and developing.
-The Hitfel 5 features an internet browser, affiliated video games, virtual assistant with voice, backwards compatibility, and more.
+description: >-
+  On this document, we will explain all the current features available for your
+  device and some neat tips for ease of access.
+cover: .gitbook/assets/Screenshot 2023-09-26 095046.png
+coverY: 0
+---
 
-The Hitfel 5 is your console. Customize it to your endless liking.
+# Introduction to the Hitfel 5
+
+Welcome to the Hitfel 5! Thank you for using our system. The Hitfel 5 can be taken with you anywhere! Expect updates with quality-of-life features and more!
+
+See the next pages for information on the system.
+
+
+
+The Hitfel 5 is a registered trademark in the USA of ProID Corporation. All rights reserved.
