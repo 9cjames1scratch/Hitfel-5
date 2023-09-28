@@ -26,4 +26,4 @@ We recommend at least 2 GB of memory to get smooth animations. If that isn't pos
 
 ## Space
 
-If used in the browser, it depends on the size of the cookies. Otherwise, you will need at least 13 MB of free space or more depending on updates.
+If used in the browser, it depends on the size of the cookies. Otherwise, you will need at least 20 MB of free space or more depending on updates.

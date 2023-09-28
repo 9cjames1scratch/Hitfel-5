@@ -12,4 +12,4 @@ In the Hitfel 5, ProID Exchange is used to make online transfers such as OnTags 
 
 ProID Exchange has the ability to check if the host device is connected to the internet. If ProID Exchange detects that a connection isn't established, then online features such as +app will be unavailable.
 
-For more information on the Wi-Fi service, visit the Wi-Fi page.
+For more information on the Wi-Fi service, visit the [Wi-Fi](../wi-fi-module.md) page.
