@@ -12,6 +12,8 @@
   * [+app](home-menu/+app.md)
   * [OnTags](home-menu/ontags.md)
 * [Wi-Fi Module](wi-fi-module.md)
+* [Passcode Security](passcode-security.md)
+* [TV Mode](tv-mode.md)
 * [Failsafe](failsafe.md)
 * [Quick Menu](quick-menu.md)
 * [Modifying the system](modifying-the-system.md)
