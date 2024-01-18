@@ -4,6 +4,20 @@ description: >-
   the system.
 cover: ../.gitbook/assets/Screenshot 2023-09-26 105505.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Home Menu
